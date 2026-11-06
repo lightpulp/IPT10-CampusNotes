@@ -1,0 +1,4 @@
+# Apache/XAMPP: this folder is the only part of the project that is served.
+Require all granted
+Options -Indexes
+DirectoryIndex index.php

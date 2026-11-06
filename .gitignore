@@ -1,0 +1,10 @@
+# Never commit secrets or local environment files
+.env
+.env.*
+*.local.php
+# Dependencies (none are required, but keep vendor out if Composer is added later)
+/vendor/
+# Logs and OS clutter
+*.log
+.DS_Store
+Thumbs.db

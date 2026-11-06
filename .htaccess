@@ -1,0 +1,3 @@
+# Apache/XAMPP: block everything in the project folder (src/, templates/, tests/,
+# schema.sql, config.local.php, README.md). public/.htaccess re-allows the web root.
+Require all denied
